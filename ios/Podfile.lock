@@ -1,0 +1,33 @@
+PODS:
+  - Flutter (1.0.0)
+  - HaishinKit (1.1.2):
+    - Logboard (~> 2.2.1)
+  - Logboard (2.2.2)
+  - replay_kit_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - HaishinKit (~> 1.1.2)
+  - replay_kit_launcher (from `.symlinks/plugins/replay_kit_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - HaishinKit
+    - Logboard
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  replay_kit_launcher:
+    :path: ".symlinks/plugins/replay_kit_launcher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  HaishinKit: b47423f714c38253fce1502ab38ca6f1bdacbc08
+  Logboard: 0ab6bbd984ed032b3f0b615cef06779a73445c80
+  replay_kit_launcher: e2b85653d7ee455d067abc1a74c4feb8574087d4
+
+PODFILE CHECKSUM: fa6914f6f454ce38cb98b0058c34a25a18561622
+
+COCOAPODS: 1.10.1
